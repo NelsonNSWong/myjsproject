@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "version": "1.0.1",
+  "description": "Nelson First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelsonNSWong/myjsproject.git"
+  },
+  "keywords": [
+    "My"
+  ],
+  "author": "Nelson Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NelsonNSWong/myjsproject/issues"
+  },
+  "homepage": "https://github.com/NelsonNSWong/myjsproject#readme",
+  "dependencies": {
+    "neeo-sdk": "^0.48.13"
+  }
+}

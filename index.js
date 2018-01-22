@@ -1,0 +1,1 @@
+console.log('NEEO SDK my project "MyAccessory" adapter');
